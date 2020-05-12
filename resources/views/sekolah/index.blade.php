@@ -60,53 +60,21 @@
             </div>
         </div>
     </nav>
-    <header class="masthead">
-       <div class="container">
-         
-            <h1 class="masthead-heading  mb-2 mt-n6">Website Informasi</h1>
-                    <h1 class="masthead-subheading  stroke  mb-2 mt-n6">Pendaftaran Peserta Didik Baru <br> SMK Negeri 1 Limboto</h1>
-                   <center><a href="#" class="btn btn-danger btn-xl  mt-5  ">Pelajari Lebih Lanjut</a></center> 
-                    </div>
-</header>
+    <!-- navigation -->
+   
 
     
-    <div id="carouselExampleFade" class="carousel slide carousel-fade" data-ride="carousel">
-      
-        <ol class="carousel-indicators">
-            <li data-target="#carouselExampleFade" data-slide-to="0" class="active"></li>
-            <li data-target="#carouselExampleFade" data-slide-to="1"></li>
-            <li data-target="#carouselExampleFade" data-slide-to="2"></li>
-        </ol>
-        <div class="carousel-inner">
-            <div class="carousel-item active">
-                <img src="img/slide/slide1.jpeg" style="opacity: 0.6;height:800px;" class="d-block w-100" alt="...">
-                <div class="carousel-caption d-none d-md-block">
-                    
-                </div>
+     <!-- Masthead-->
+     <header class="masthead" >
+            <div class="container">
+                <div class="masthead-subheading">Selamat Datang di</div>
+                
+                <div class="masthead-heading text-uppercase">Halaman Website</div>
+                <div class="masthead-subheading text-uppercase">Pendaftaran Peserta Didik Baru</div>
+                <div class="masthead-subheading text-uppercase">SMK Negeri 1 Limboto</div>
+                <a class="btn btn-danger btn-xl text-uppercase js-scroll-trigger" href="#services">Tell Me More</a>
             </div>
-            <div class="carousel-item">
-                <img src="img/slide/slide2.jpeg" style="opacity: 0.6;height:800px;" class="d-block w-100" alt="...">
-                <div class="carousel-caption d-none d-md-block">
-                    
-                </div>
-            </div>
-            <div class="carousel-item">
-                <img src="img/slide/slide3.jpeg" style="opacity: 0.6;height:800px;" class="d-block w-100" alt="...">
-                <div class="carousel-caption d-none d-md-block">
-                    
-                </div>
-            </div>
-        </div>
-        <a class="carousel-control-prev" href="#carouselExampleFade" role="button" data-slide="prev">
-            <span class="carousel-control-prev-icon" aria-hidden="true"></span>
-            <span class="sr-only">Previous</span>
-        </a>
-        <a class="carousel-control-next" href="#carouselExampleFade" role="button" data-slide="next">
-            <span class="carousel-control-next-icon" aria-hidden="true"></span>
-            <span class="sr-only">Next</span>
-        </a>
-    </div>
-
+        </header>
     <!--
     <header class="masthead text-center text-white">
         <div class="masthead-content">
@@ -749,8 +717,82 @@
         </div>
         <hr>
     </section>
+    <!-- contact person -->
+    <section class="page-section bg-light p-5" id="team">
+            <div class="container">
+                <div class="text-center">
+                    <h2 class="section-heading text-uppercase mt-2">Hubungi Kami</h2>
+                
+                </div>
+                <div class="row">
+                    <div class="col-lg-4">
+                        <div class="team-member">
+                            <img class="mx-auto rounded-circle" src="img/team/1.jpg" alt="" />
+                            <h4>Saira Djoli,S.Pd</h4>
+                            <p class="text-muted">Wakasek Kesiswaan</p>
+                        <h3>0853-xxxx-xxxx</h3>
+                        </div>
+                    </div>
+                    <div class="col-lg-4">
+                        <div class="team-member">
+                            <img class="mx-auto rounded-circle" src="img/team/2.jpg" alt="" />
+                            <h4>Muh. Firmansyah AMd</h4>
+                            <p class="text-muted">Lead Marketer</p>
+                           <h3>0812-xxxx-xxxx</h3>
+                        </div>
+                    </div>
+                    <div class="col-lg-4">
+                        <div class="team-member">
+                            <img class="mx-auto rounded-circle" src="img/team/3.jpg" alt="" />
+                            <h4>Zulkarnain Zakaria,S.Pd</h4>
+                            <p class="text-muted">Lead Developer</p>
+                            <h3>0853-xxxx-xxxx</h3>
+                        </div>
+                    </div>
+                </div>
+                <div class="row">
+                    <div class="col-lg-8 mx-auto text-center"><p class="large text-muted">Lorem ipsum dolor sit amet, consectetur adipisicing elit. Aut eaque, laboriosam veritatis, quos non quis ad perspiciatis, totam corporis ea, alias ut unde.</p></div>
+                </div>
+            </div>
+        </section>
 
-
+    <!-- contact us -->
+    <section class="page-section p-5" id="contact">
+            <div class="container">
+                <div class="text-center">
+                    <h2 class="section-heading text-uppercase">Contact Us</h2>
+                    <h3 class="section-subheading text-muted">Lorem ipsum dolor sit amet consectetur.</h3>
+                </div>
+                <form id="contactForm" name="sentMessage" novalidate="novalidate">
+                    <div class="row align-items-stretch mb-5">
+                        <div class="col-md-6">
+                            <div class="form-group">
+                                <input class="form-control" id="name" type="text" placeholder="Your Name *" required="required" data-validation-required-message="Please enter your name." />
+                                <p class="help-block text-danger"></p>
+                            </div>
+                            <div class="form-group">
+                                <input class="form-control" id="email" type="email" placeholder="Your Email *" required="required" data-validation-required-message="Please enter your email address." />
+                                <p class="help-block text-danger"></p>
+                            </div>
+                            <div class="form-group mb-md-0">
+                                <input class="form-control" id="phone" type="tel" placeholder="Your Phone *" required="required" data-validation-required-message="Please enter your phone number." />
+                                <p class="help-block text-danger"></p>
+                            </div>
+                        </div>
+                        <div class="col-md-6">
+                            <div class="form-group form-group-textarea mb-md-0">
+                                <textarea class="form-control" id="message" placeholder="Your Message *" required="required" data-validation-required-message="Please enter a message."></textarea>
+                                <p class="help-block text-danger"></p>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="text-center">
+                        <div id="success"></div>
+                        <button class="btn btn-primary btn-xl text-uppercase" id="sendMessageButton" type="submit">Send Message</button>
+                    </div>
+                </form>
+            </div>
+        </section>
     <!-- Footer -->
     <footer class="py-5 bg-black">
         <div class="container">
