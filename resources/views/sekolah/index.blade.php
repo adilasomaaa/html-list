@@ -485,10 +485,10 @@
     </section>
     -->
   <!-- Portfolio Grid-->
-  <section class="page-section p-5" id="portfolio">
-            <div class="container">
+  <section class="page-section p-5 " id="portfolio">
+            <div class="container border-top">
                 <div class="text-center">
-                    <h2 class="section-heading text-uppercase mb-3">Bidang Keahlian</h2>
+                    <h2 class="section-heading text-uppercase mb-3 pt-3">Bidang Keahlian</h2>
                     <h3 class="section-subheading text-muted"></h3>
                 </div>
                 <div class="row" id="bidangkeahlian">
@@ -736,17 +736,17 @@
                     <div class="col-lg-4">
                         <div class="team-member">
                             <img class="mx-auto rounded-circle" src="img/team/2.jpg" alt="" />
-                            <h4>Muh. Firmansyah AMd</h4>
+                            <h4>Muh. Firmansyah S.Kom</h4>
                             <p class="text-muted">Lead Marketer</p>
                            <h3>0812-xxxx-xxxx</h3>
                         </div>
                     </div>
                     <div class="col-lg-4">
                         <div class="team-member">
-                            <img class="mx-auto rounded-circle" src="img/team/3.jpg" alt="" />
-                            <h4>Zulkarnain Zakaria,S.Pd</h4>
-                            <p class="text-muted">Lead Developer</p>
-                            <h3>0853-xxxx-xxxx</h3>
+                            <img class="mx-auto rounded-circle" src="img/team/1.jpg" alt="" />
+                            <h4>Brilian Adama</h4>
+                            <p class="text-muted">Lead marketing</p>
+                            <h3>0853-1132-7490</h3>
                         </div>
                     </div>
                 </div>
@@ -760,41 +760,45 @@
     <section class="page-section p-5" id="contact">
             <div class="container">
                 <div class="text-center">
-                    <h2 class="section-heading text-uppercase">Contact Us</h2>
-                    <h3 class="section-subheading text-muted">Lorem ipsum dolor sit amet consectetur.</h3>
+                    <h2 class="section-heading text-uppercase">Serbaneka</h2>
+                    <h3 class="section-subheading text-muted">Lokasi, Mitra, dan Media Sosial Kami bisa dilihat disini</h3>
                 </div>
-                <form id="contactForm" name="sentMessage" novalidate="novalidate">
-                    <div class="row align-items-stretch mb-5">
+               
+                    <div class="row">
                         <div class="col-md-6">
-                            <div class="form-group">
-                                <input class="form-control" id="name" type="text" placeholder="Your Name *" required="required" data-validation-required-message="Please enter your name." />
-                                <p class="help-block text-danger"></p>
-                            </div>
-                            <div class="form-group">
-                                <input class="form-control" id="email" type="email" placeholder="Your Email *" required="required" data-validation-required-message="Please enter your email address." />
-                                <p class="help-block text-danger"></p>
-                            </div>
-                            <div class="form-group mb-md-0">
-                                <input class="form-control" id="phone" type="tel" placeholder="Your Phone *" required="required" data-validation-required-message="Please enter your phone number." />
-                                <p class="help-block text-danger"></p>
-                            </div>
+                            <h5 class="section-subheading text-white">Lokasi</h5>
+                        <iframe height="300px" width="100%" src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3989.5737546828673!2d122.99049191486097!3d0.6343968636327145!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x3279320110ce9f41%3A0x27839c1149641b0e!2sSMK%20Negeri%201%20Limboto!5e0!3m2!1sid!2sid!4v1589343762308!5m2!1sid!2sid" width="600" height="450" frameborder="0" style="border:0;" allowfullscreen="" aria-hidden="false" tabindex="0"></iframe>
                         </div>
-                        <div class="col-md-6">
-                            <div class="form-group form-group-textarea mb-md-0">
-                                <textarea class="form-control" id="message" placeholder="Your Message *" required="required" data-validation-required-message="Please enter a message."></textarea>
-                                <p class="help-block text-danger"></p>
-                            </div>
+                        <div class="col-md-3">
+                        <h5 class="section-subheading text-white">Link Terkait</h5>
+                        <ul class="list-group list-group-flush bg-secondary">
+                                 <li class="list-group-item list-group-item-action" id="list-group-item-black"><i class="fa fa-caret-right"></i><a style="padding-left:10px" href="https://psmk.kemdikbud.go.id/">Direktorat Pembinaan SMK</a></li>
+                                <li class="list-group-item list-group-item-action" id="list-group-item-black"><i class="fa fa-caret-right"></i><a style="padding-left:10px" href="https://bsnp-indonesia.org/">BNSP Indonesia</a></li>
+                                 <li class="list-group-item list-group-item-action" id="list-group-item-black"><i class="fa fa-caret-right"></i><a style="padding-left:10px" href="">SMKN 1 Limboto</a></li>
+                            </ul>
+                        </div>
+
+
+                        <div class="col-md-3">
+                        <h5 class="section-subheading text-white">Find Us on Social Media</h5>
+                         <!--Facebook-->
+                        <a type="button" class="btn btn-primary btn-block" href="#" role="button" ><i class="fab fa-facebook-f pr-1"></i> Facebook</a>
+                        <!--Twitter-->
+                        <a type="button" class="btn btn-secondary btn-block" href="http://smkn1limboto.sch.id/" role="button"><i class="fa fa-school pr-1"></i> Website</a>
+                        <!--Google +-->
+                        <a type="button" class="btn btn-danger btn-block" href="https://www.instagram.com/smkn1limboto/" role="button"><i class="fab fa-instagram pr-1"></i> Instagram</a>
+                        <a type="button" class="btn btn-danger btn-block" href="https://www.instagram.com/osis_smkn1limboto/" role="button"><i class="fab fa-instagram pr-1"></i> Instagram OSIS</a>
+                             
+                            
+                      
                         </div>
                     </div>
-                    <div class="text-center">
-                        <div id="success"></div>
-                        <button class="btn btn-primary btn-xl text-uppercase" id="sendMessageButton" type="submit">Send Message</button>
-                    </div>
-                </form>
+                    
+                
             </div>
         </section>
     <!-- Footer -->
-    <footer class="py-5 bg-black">
+    <footer class="py-3 bg-black">
         <div class="container">
             <p class="m-0 text-center text-white small">Copyright &copy; SMK Negeri 1 Limboto 2020 &#160; | &#160; Created by <a href="http://instagram.com/adi.lasoma" style="color:#dc3545">Yasdil Lasoma</a>  and <a href="http://instagram.com/itsagungsaputra" style="color:#dc3545">Agung Saputra</a> | &#160; All Rights Reserved </p>
         </div>
@@ -814,7 +818,11 @@
                                     <h2 class="text-uppercase">Rekayasa Perangkat Lunak</h2>
                                     <p class="item-intro text-muted">as known as RPL</p>
                                     <img class="img-fluid d-block mx-auto" src="/img/portfolio/rpl-thumbnail.jpeg" alt="" />
-                                    <p>Use this area to describe your project. Lorem ipsum dolor sit amet, consectetur adipisicing elit. Est blanditiis dolorem culpa incidunt minus dignissimos deserunt repellat aperiam quasi sunt officia expedita beatae cupiditate, maiores repudiandae, nostrum, reiciendis facere nemo!</p>
+                                    <p>RPL adalah singkatan dari Rekayasa Perangkat Lunak dan merupakan sebuah jurusan yang ada di Sekolah Menengah Kejuruan (SMK). RPL adalah sebuah jurusan yang mempelajari dan mendalami semua cara-cara pengembangan perangkat lunak termasuk pembuatan, pemeliharaan, manajemen organisasi pengembangan perangkat lunak dan manajemen kualitas.
+
+Bukan hanya itu, RPL juga berkaitan dengan software komputer mulai dari pembuatan website, aplikasi, game dan semua yang berkaitan dengan pemrograman dengan menguasai bahasa pemrograman tersebut. Intinya RPL tidak akan jauh-jauh dari tiga hal yaitu Coding, Desain dan Algoritma yang akan menjadi kunci keberhasilan rekayasa perangkat lunak tersebut.
+
+
                                     <ul class="list-inline">
                                         <li>Date: January 2020</li>
                                         <li>Client: Threads</li>
@@ -841,7 +849,7 @@
                                     <h2 class="text-uppercase">Teknik Komputer Jaringan</h2>
                                     <p class="item-intro text-muted">as known as TKJ</p>
                                     <img class="img-fluid d-block mx-auto" src="/img/portfolio/tkj-thumbnail.jpeg" alt="" />
-                                    <p>Use this area to describe your project. Lorem ipsum dolor sit amet, consectetur adipisicing elit. Est blanditiis dolorem culpa incidunt minus dignissimos deserunt repellat aperiam quasi sunt officia expedita beatae cupiditate, maiores repudiandae, nostrum, reiciendis facere nemo!</p>
+                                    <p>TKJ Adalah singkatan dari Teknik Komputer Jaringan. TKJ merupakan sebuah kejuruan yang mempelajari tentang cara merakit komputer, mengenal dan mempelajari komponen hardware apa saja yang ada di dalam komputer, merakit komputer serta fokus mempelajari jaringan dasar. Tidak hanya itu selama tiga tahun belajar di TKJ anda akan belajar sistem kerja jaringan dan pemograman web serta meng-administrasi komputer jaringan. Kejuruan TKJ hanya ada di STM/SMK, sampai saat ini jurusan TKJ merupakan jurusan yang sangat populer dan banyak diminati selain RPL dan juga jurusan Multimedia.</p>
                                     <ul class="list-inline">
                                         <li>Date: January 2020</li>
                                         <li>Client: Explore</li>
@@ -868,7 +876,9 @@
                                     <h2 class="text-uppercase">Multimedia</h2>
                                     <p class="item-intro text-muted">as known as MM</p>
                                     <img class="img-fluid d-block mx-auto" src="/img/portfolio/mm-thumbnail.jpeg" alt="" />
-                                    <p>Use this area to describe your project. Lorem ipsum dolor sit amet, consectetur adipisicing elit. Est blanditiis dolorem culpa incidunt minus dignissimos deserunt repellat aperiam quasi sunt officia expedita beatae cupiditate, maiores repudiandae, nostrum, reiciendis facere nemo!</p>
+                                    <p>Jurusan multimedia menjadi salah satu jurusan yang menjanjikan masa masa depan. Multimedia telah masuk dalam daftar perangkat kinerja yang membutuhkan banyak tenaga ahli untuk dapat mengembangkan perangkat tersebut. Di Indonesia terdapat telah banyak SMK hingga perguruan tinggi yang memasukan multimedia sebagai kajian tersendiri meskipun masih masuk dalam ilmu komunikasi.
+
+</p>
                                     <ul class="list-inline">
                                         <li>Date: January 2020</li>
                                         <li>Client: Finish</li>
@@ -895,7 +905,7 @@
                                     <h2 class="text-uppercase">Akuntansi Keuangan Lembaga</h2>
                                     <p class="item-intro text-muted">as known as AKL</p>
                                     <img class="img-fluid d-block mx-auto" src="/img/portfolio/akl-thumbnail.jpeg" alt="" />
-                                    <p>Use this area to describe your project. Lorem ipsum dolor sit amet, consectetur adipisicing elit. Est blanditiis dolorem culpa incidunt minus dignissimos deserunt repellat aperiam quasi sunt officia expedita beatae cupiditate, maiores repudiandae, nostrum, reiciendis facere nemo!</p>
+                                    <p>Akuntansi adalah segala proses yang berhubungan dengan transaksi keuangan mulai dari pencatatan, mengklasifikasi jenis transaksi, meringkasnya, mengolah dan menjadikan sebuah data, tujuannya adalah untuk menjadikan sebuah laporan keuangan yang akurat</p>
                                     <ul class="list-inline">
                                         <li>Date: January 2020</li>
                                         <li>Client: Lines</li>
@@ -922,7 +932,9 @@
                                     <h2 class="text-uppercase">Otomatisasi Tata Kelola Perkantoran</h2>
                                     <p class="item-intro text-muted">as known as OTKP</p>
                                     <img class="img-fluid d-block mx-auto" src="/img/portfolio/otkp-thumbnail.jpeg" alt="" />
-                                    <p>Use this area to describe your project. Lorem ipsum dolor sit amet, consectetur adipisicing elit. Est blanditiis dolorem culpa incidunt minus dignissimos deserunt repellat aperiam quasi sunt officia expedita beatae cupiditate, maiores repudiandae, nostrum, reiciendis facere nemo!</p>
+                                    <p>Hasil Telusur
+Cuplikan pilihan dari web
+Otomatisasi & Tata Kelola Perkantoran (OTKP) Otomatisasi adalah penggantian tenaga manusia dengan tenaga mesin yang secara otomatis melakukan dan mengatur pekerjaan sehingga tidak memerlukan lagi pengawasan manusia (dalam industri dan sebagainya).</p>
                                     <ul class="list-inline">
                                         <li>Date: January 2020</li>
                                         <li>Client: Southwest</li>
@@ -949,7 +961,7 @@
                                     <h2 class="text-uppercase">Bisnis Daring Pemasarab</h2>
                                     <p class="item-intro text-muted">as known as BDP</p>
                                     <img class="img-fluid d-block mx-auto" src="/img/portfolio/bdp-thumbnail.jpeg" alt="" />
-                                    <p>Use this area to describe your project. Lorem ipsum dolor sit amet, consectetur adipisicing elit. Est blanditiis dolorem culpa incidunt minus dignissimos deserunt repellat aperiam quasi sunt officia expedita beatae cupiditate, maiores repudiandae, nostrum, reiciendis facere nemo!</p>
+                                    <p>Bisnis Daring dan Pemasaran adalah sebuah kompetensi keahlian (jurusan) yang mempelajari dasar - dasar kemampuan dan keilmuan menjadi seorang marketing baik marketing secara konvensional maupun melalui media daring (online/internet). Di Kompetensi Keahlian Bisnis Daring dan Pemasaran siswa akan mempelajari strategi pasar, kewirausahaan dan membaca peluang di dunia bisnis.  </p>
                                     <ul class="list-inline">
                                         <li>Date: January 2020</li>
                                         <li>Client: Window</li>
@@ -976,7 +988,7 @@
                                     <h2 class="text-uppercase">Usaha Perjalanan Wisata</h2>
                                     <p class="item-intro text-muted">as known as UPW</p>
                                     <img class="img-fluid d-block mx-auto" src="/img/portfolio/upw-thumbnail.jpeg" alt="" />
-                                    <p>Use this area to describe your project. Lorem ipsum dolor sit amet, consectetur adipisicing elit. Est blanditiis dolorem culpa incidunt minus dignissimos deserunt repellat aperiam quasi sunt officia expedita beatae cupiditate, maiores repudiandae, nostrum, reiciendis facere nemo!</p>
+                                    <p>Program studi Usaha Perjalanan Wisata (UPW) adalah program studi yang mempelajari kegiatan yang bersifat komersial yang mengatur, menyediakan, dan menyelenggarakan pelayanan bagi seseorang, sekelompok orang yang melakukan perjalanan dengan tujuan utama yaitu berwisata. Di jurusan ini, kamu akan terbiasa untuk membicarakan dan mendiskusikan berbagai topik seperti bagaimana mengatur segala pelayanan bagi para wisatawan mulai dari membuat itinerary sampai dengan budgeting suatu kegiatan wisata. Kamu juga akan mempelajari hal-hal pendukung lain seperti melakukan penelitian untuk membangun suatu daerah menjadi daerah wisata dan memberdayakan masyarakat sekitar, belajar untuk melestarikan budaya dan menjadikan budaya sebagai daya tarik bagi turis lokal maupun mancanegara, dan sebagainya.</p>
                                     <ul class="list-inline">
                                         <li>Date: January 2020</li>
                                         <li>Client: Threads</li>
@@ -1003,7 +1015,7 @@
                                     <h2 class="text-uppercase">Akomodasi Perhotelan</h2>
                                     <p class="item-intro text-muted">as known as AKP</p>
                                     <img class="img-fluid d-block mx-auto" src="/img/portfolio/hotel-thumbnail.jpeg" alt="" />
-                                    <p>Use this area to describe your project. Lorem ipsum dolor sit amet, consectetur adipisicing elit. Est blanditiis dolorem culpa incidunt minus dignissimos deserunt repellat aperiam quasi sunt officia expedita beatae cupiditate, maiores repudiandae, nostrum, reiciendis facere nemo!</p>
+                                    <p> Akomodasi Perhotelan atau sering disingkat AKP adalah program keahlian yang menggeluti dalam bidang front office dan house keeping. Program kegiatannya cukup membuat para siswa mengetahui, memahami, dan mengimplementasikan tentang yang berkaitan dengan kedua hal tersebut.</p>
                                     <ul class="list-inline">
                                         <li>Date: January 2020</li>
                                         <li>Client: Explore</li>
@@ -1030,7 +1042,7 @@
                                     <h2 class="text-uppercase">Agribisnis Pengolahan Hasil Pertanian</h2>
                                     <p class="item-intro text-muted">as known as APHP</p>
                                     <img class="img-fluid d-block mx-auto" src="/img/portfolio/aphp-thumbnail.jpeg" alt="" />
-                                    <p>Use this area to describe your project. Lorem ipsum dolor sit amet, consectetur adipisicing elit. Est blanditiis dolorem culpa incidunt minus dignissimos deserunt repellat aperiam quasi sunt officia expedita beatae cupiditate, maiores repudiandae, nostrum, reiciendis facere nemo!</p>
+                                    <p>Agribisnis Pengolahan Hasil Pertanian ( APHP ) Adalah Program Keahlian Meliputi Kemampuan Mengenal Komoditas Hasil Pertanian, Menerapkan Dasar Pengolahan Dan Pengawetan Bahan Hasil Pertanian, Mengolah Bahan Hasil Pertanian Menjadi Produk Olahan, Memahami Konsep Pengendalian Mutu Bahan Hasil Pertanian, Mengelola Usaha Mandiri Pengolahan Hasil Pertanian Dan Menerapkan Prosedur Produksi Yang Baik (Gmp). Serta Pemahaman K3lh, Sanitasi Dan Pengelolaan Limbah.</p>
                                     <ul class="list-inline">
                                         <li>Date: January 2020</li>
                                         <li>Client: Finish</li>
