@@ -53,8 +53,7 @@
                         <a class="nav-link js-scroll-trigger" href="#timeline">Alur Pendaftaran</a>
                     </li>
                     <li class="nav-item">
-                        <a class="btn btn-danger btn-sm ml-3 mb-1 font-weight-bold text-white special-fonts"
-                            href="https://api.whatsapp.com/send?phone=6285311327490&text=Halo,%20Saya%20ingin%20bertanya%20mengenai%20pendaftaran%20peserta%20didik%20baru%20di%20SMK%20Negeri%201%20Limboto" role="button">KONTAK KAMI</a>
+                        <a class="btn btn-danger btn-sm ml-3 mb-1 font-weight-bold text-white special-fonts"    href="#team" role="button">KONTAK KAMI</a>
                     </li>
                 </ul>
             </div>
@@ -69,10 +68,10 @@
             <div class="container">
                 <div class="masthead-subheading">Selamat Datang di</div>
                 
-                <div class="masthead-heading text-uppercase">Halaman Website</div>
+                <div class="masthead-heading text-uppercase">Website Informasi</div>
                 <div class="masthead-subheading text-uppercase">Pendaftaran Peserta Didik Baru</div>
                 <div class="masthead-subheading text-uppercase">SMK Negeri 1 Limboto</div>
-                <a class="btn btn-danger btn-xl text-uppercase js-scroll-trigger" href="#services">Tell Me More</a>
+                <a class="btn btn-danger btn-xl text-uppercase js-scroll-trigger" href="https://forms.gle/QB4AsWJBqH5z2iQC8">Formulir SMK Negeri 1 Limboto</a>
             </div>
         </header>
     <!--
@@ -640,9 +639,8 @@
                             <div class="timeline-content">
                                 <h3 class="title">Sosialisasi PPDB SMA/SMK</h3>
                                 <p class="description">
-                                    (4 Maret - 16 Mei) Lorem ipsum dolor sit amet, consectetur adipisicing elit.
-                                    Cupiditate ducimus officiis quod! Aperiam eveniet nam nostrum odit quasi ullam
-                                    voluptatum.
+                                    (4 Maret - 16 Mei) Aktivitas: Pada masa ini adalah masa sosialisasi bagi SMA dan SMK untuk menarik siswa agar masuk disekolah tujuan mereka.
+                                    Kami telah merilis video profil dari jurusan yang ada di SMK Negeri 1 Limboto di youtube.
                                 </p>
                             </div>
                         </div>
@@ -651,8 +649,7 @@
                             <div class="timeline-content">
                                 <h3 class="title">Pendaftaran Jalur Zonasi, afirmasi dan perpindahan Ortu/Wali</h3>
                                 <p class="description">
-                                    (6 - 13 Juni) Lorem ipsum dolor sit amet, consectetur adipisicing elit.
-                                    Cupiditate ducimus officiis quod! Aperiam eveniet nam nostrum odit quasi ullam voluptatum.
+                                    (Tanggal 6 - 13 Juni, Pukul  08.00 - 16.00 Wita) Aktivitas: Pada masa ini adalah masa untuk mendaftar melalui Jalur umum, Jalur Zonasi, Jalur Afirmasi dan Perpindahan Orang Tua.
                                 </p>
                             </div>
                         </div>
@@ -661,7 +658,7 @@
                             <div class="timeline-content">
                                 <h3 class="title">Pendaftaran Jalur Prestasi</h3>
                                 <p class="description">
-                                    (15 - 17 Juni) Lorem ipsum dolor sit amet, consectetur adipisicing elit. Cupiditate ducimus officiis quod! Aperiam eveniet nam nostrum odit quasi ullam voluptatum.
+                                    (Tanggal 15 - 17 Juni, Pukul  08.00 - 16.00 Wita) Aktivitas: Mendaftar Jalur Prestasi, Peserta Didik dengan ketentuan memiliki Sertifikat Prestasi Akademik dan Non Akademik Tingkat Provinsi dan Nasional
                                 </p>
                             </div>
                         </div>
@@ -670,7 +667,7 @@
                             <div class="timeline-content">
                                 <h3 class="title">Tes Khusus untuk SMK</h3>
                                 <p class="description">
-                                    (18 - 19 Juni) Lorem ipsum dolor sit amet, consectetur adipisicing elit. Cupiditate ducimus officiis quod! Aperiam eveniet nam nostrum odit quasi ullam voluptatum.
+                                    (Tanggal 18 - 19 Juni, Pukul  08.00 - 16.00 Wita) Aktivitas: Melaksanakan Tes Khusus Sekolah Menengah Kejuruan yang dibuat oleh sekolah.
                                 </p>
                             </div>
                         </div>
@@ -679,7 +676,7 @@
                             <div class="timeline-content">
                                 <h3 class="title">Verifikasi</h3>
                                 <p class="description">
-                                    (20 - 23 Juni) Lorem ipsum dolor sit amet, consectetur adipisicing elit. Cupiditate ducimus officiis quod! Aperiam eveniet nam nostrum odit quasi ullam voluptatum.
+                                    (Tanggal 20 - 23 Juni, Pukul  08.00 - 16.00 Wita) Aktivitas: Pada aktivitas ini dilakukan Verifikasi berkas yang sudah terdaftar di Sistem PPDB Online.
                                 </p>
                             </div>
                         </div>
@@ -688,7 +685,7 @@
                             <div class="timeline-content">
                                 <h3 class="title">Proses Seleksi dan Penyusunan Peringkat</h3>
                                 <p class="description">
-                                    (24 - 25 Juni) Lorem ipsum dolor sit amet, consectetur adipisicing elit. Cupiditate ducimus officiis quod! Aperiam eveniet nam nostrum odit quasi ullam voluptatum.
+                                    (Tanggal 24 - 25 Juni, Pukul  08.00 - 16.00 Wita) Aktivitas: Pada aktivitas ini dilakukan Proses Seleksi dan Analisis Penyusunan Peringkat
                                 </p>
                             </div>
                         </div>
@@ -697,17 +694,16 @@
                             <div class="timeline-content">
                                 <h3 class="title">Pengumuman Hasil Seleksi</h3>
                                 <p class="description">
-                                    (27 Juni) Lorem ipsum dolor sit amet, consectetur adipisicing elit. Cupiditate ducimus officiis quod! Aperiam eveniet nam nostrum odit quasi ullam voluptatum.
+                                    (Tanggal 27 Juni, Pukul  08.00 - 16.00 Wita) Aktivitas: Pada aktivitas ini dilakukan  Pengumuman Hasil Seleksi dan Penyusunan Peringkat
                                 </p>
                             </div>
                         </div>
                         <div class="timeline">
                             <div class="timeline-icon"><i class="fa fa-user-tag"></i></div>
                             <div class="timeline-content">
-                                <h3 class="title">Daftar Ulang Siswa yang diterima</h3>
+                                <h3 class="title">(29 - 30 Juni)Daftar Ulang Siswa yang diterima</h3>
                                 <p class="description">
-                                    (29 - 30 Juni) Lorem ipsum dolor sit amet, consectetur adipisicing elit. Cupiditate
-                                    ducimus officiis quod! Aperiam eveniet nam nostrum odit quasi ullam voluptatum.
+                                (Tanggal 29 - 30 Juni, Pukul  08.00 - 16.00 Wita)  Aktivitas: Pendaftaran kembali siswa baru yang terterima di SMK Negeri 1 Limboto.
                                 </p>
                             </div>
                         </div>
@@ -719,41 +715,57 @@
     </section>
     <!-- contact person -->
     <section class="page-section bg-light p-5" id="team">
-            <div class="container">
+    <div class="container">
                 <div class="text-center">
                     <h2 class="section-heading text-uppercase mt-2">Hubungi Kami</h2>
                 
                 </div>
+                
                 <div class="row">
-                    <div class="col-lg-4">
+                    <div class="col-lg-6">
                         <div class="team-member">
                             <img class="mx-auto rounded-circle" src="img/team/1.jpg" alt="" />
-                            <h4>Saira Djoli,S.Pd</h4>
-                            <p class="text-muted">Wakasek Kesiswaan</p>
-                        <h3>0853-xxxx-xxxx</h3>
+                            <h4>Saira Yusuf Djoli, S.Pd</h4>
+                            <p class="text-muted">Wakasek Kesiswaan (Ketua)</p>
+                      <a class="btn btn-success mb-2 font-weight-bold text-white special-fonts"    href="https://api.whatsapp.com/send?phone=6282361892754&text=Halo,%20Saya%20ingin%20bertanya%20mengenai%20pendaftaran%20peserta%20didik%20baru%20di%20SMK%20Negeri%201%20Limboto" role="button"><i class="fab fa-whatsapp pr-1"></i>0823-6189-2754</a>
+                        </div>
+                    </div>
+                    <div class="col-lg-6">
+                        <div class="team-member">
+                            <img class="mx-auto rounded-circle" src="img/team/4.jpeg" alt="" />
+                            <h4>Tommy Mooduto, S.Kom</h4>
+                            <p class="text-muted">Wakil Ketua</p>
+                            <h4></h4>
                         </div>
                     </div>
                     <div class="col-lg-4">
                         <div class="team-member">
                             <img class="mx-auto rounded-circle" src="img/team/2.jpg" alt="" />
-                            <h4>Muh. Firmansyah S.Kom</h4>
-                            <p class="text-muted">Lead Marketer</p>
-                           <h3>0812-xxxx-xxxx</h3>
+                            <h4>Muh. Firmansyah, S.Kom</h4>
+                            <p class="text-muted">Operator</p>
+                            <a class="btn btn-success mb-2 font-weight-bold text-white special-fonts"    href="https://api.whatsapp.com/send?phone=6282349295210&text=Halo,%20Saya%20ingin%20bertanya%20mengenai%20pendaftaran%20peserta%20didik%20baru%20di%20SMK%20Negeri%201%20Limboto" role="button"><i class="fab fa-whatsapp pr-1"></i>0823-4929-5210</a>
                         </div>
                     </div>
                     <div class="col-lg-4">
                         <div class="team-member">
-                            <img class="mx-auto rounded-circle" src="img/team/1.jpg" alt="" />
-                            <h4>Brilian Adama</h4>
-                            <p class="text-muted">Lead marketing</p>
-                            <h3>0853-1132-7490</h3>
+                            <img class="mx-auto rounded-circle" src="img/team/5.jpg" alt="" />
+                            <h4>Vicky Aprianto Uno, S.Kom</h4>
+                            <p class="text-muted">Operator</p>
+                            <a class="btn btn-success mb-2 font-weight-bold text-white special-fonts"    href="https://api.whatsapp.com/send?phone=6285145498880&text=Halo,%20Saya%20ingin%20bertanya%20mengenai%20pendaftaran%20peserta%20didik%20baru%20di%20SMK%20Negeri%201%20Limboto" role="button"><i class="fab fa-whatsapp pr-1"></i>0851-4549-8880</a>
                         </div>
                     </div>
+                    <div class="col-lg-4">
+                        <div class="team-member">
+                            <img class="mx-auto rounded-circle" src="img/team/3.jpg" alt="" />
+                            <h4>Yasdil lasoma</h4>
+                            <p class="text-muted">Ketua OSIS</p>
+                            <a class="btn btn-success mb-2 font-weight-bold text-white special-fonts"    href="https://api.whatsapp.com/send?phone=6285311327490&text=Halo,%20Saya%20ingin%20bertanya%20mengenai%20pendaftaran%20peserta%20didik%20baru%20di%20SMK%20Negeri%201%20Limboto" role="button"><i class="fab fa-whatsapp pr-1"></i>0853-1132-7490</a>
+                        </div>
+                    </div>
+                   
                 </div>
-                <div class="row">
-                    <div class="col-lg-8 mx-auto text-center"><p class="large text-muted">Lorem ipsum dolor sit amet, consectetur adipisicing elit. Aut eaque, laboriosam veritatis, quos non quis ad perspiciatis, totam corporis ea, alias ut unde.</p></div>
                 </div>
-            </div>
+              
         </section>
 
     <!-- contact us -->
@@ -798,7 +810,7 @@
             </div>
         </section>
     <!-- Footer -->
-    <footer class="py-3 bg-black">
+    <footer class="py-3 bg-black special-fonts">
         <div class="container">
             <p class="m-0 text-center text-white small">Copyright &copy; SMK Negeri 1 Limboto 2020 &#160; | &#160; Created by <a href="http://instagram.com/adi.lasoma" style="color:#dc3545">Yasdil Lasoma</a>  and <a href="http://instagram.com/itsagungsaputra" style="color:#dc3545">Agung Saputra</a> | &#160; All Rights Reserved </p>
         </div>
